@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DiagramSyntax.md" afterDir="false" />
+    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="Dev - Updated about page">
+      <change afterPath="$PROJECT_DIR$/DevOpsSampleSyntax.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SampleSyntax.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MermaidJS.md" beforeDir="false" afterPath="$PROJECT_DIR$/MermaidJS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagramSyntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/DiagramSyntax.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <workItem from="1727778646054" duration="45000" />
       <workItem from="1727778705785" duration="175000" />
       <workItem from="1727778911409" duration="2203000" />
-      <workItem from="1727963693826" duration="4302000" />
+      <workItem from="1727963693826" duration="6214000" />
     </task>
     <task id="LOCAL-00001" summary="Dev - Added Diagram Syntax">
       <option name="closed" value="true" />
@@ -93,7 +94,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727779932918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dev - Added Diagram Syntax">
+      <option name="closed" value="true" />
+      <created>1727968400838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727968400838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dev - Updated About Page">
+      <option name="closed" value="true" />
+      <created>1727968435731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727968435731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dev - Updated about page">
+      <option name="closed" value="true" />
+      <created>1727968810641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727968810641</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +140,12 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Dev - Added Diagram Syntax" />
     <MESSAGE value="Dev - Added Unversioned" />
     <MESSAGE value="Dev - Added Link Syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dev - Added Link Syntax" />
+    <MESSAGE value="Dev - Added Diagram Syntax" />
+    <MESSAGE value="Dev - Updated About Page" />
+    <MESSAGE value="Dev - Updated about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev - Updated about page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
