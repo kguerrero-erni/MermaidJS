@@ -4,7 +4,7 @@ flowchart TD
 :::
 
 Breakdown:
-- Instantiate Mermaid JS (:::mermaid)
+- Initialize Mermaid JS (:::mermaid)
 - Declare Diagram Type (flowchart TD)
 - Diagram Development (Start --> Stop)
-- End of Instantiation (:::)
+- End of Initialization (:::)

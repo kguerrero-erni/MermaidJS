@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="Dev - Added Sample Syntax" />
+    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="Dev - Fixed About URL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,7 @@
       <workItem from="1727778646054" duration="45000" />
       <workItem from="1727778705785" duration="175000" />
       <workItem from="1727778911409" duration="2203000" />
-      <workItem from="1727963693826" duration="6570000" />
+      <workItem from="1727963693826" duration="6881000" />
     </task>
     <task id="LOCAL-00001" summary="Dev - Added Diagram Syntax">
       <option name="closed" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727970440980</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Dev - Fixed About URL">
+      <option name="closed" value="true" />
+      <created>1727970666481</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727970666481</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +157,8 @@
     <MESSAGE value="Dev - Updated About Page" />
     <MESSAGE value="Dev - Updated about page" />
     <MESSAGE value="Dev - Added Sample Syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dev - Added Sample Syntax" />
+    <MESSAGE value="Dev - Fixed About URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev - Fixed About URL" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
