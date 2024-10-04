@@ -19,4 +19,6 @@ flowchart TD
 
 For apps that support markdown (e.g. GitHub, GitLab, Obsidian, etc.), you can add Mermaid diagrams by making a mermaid code block.
 
-To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/DevOpsSampleSyntax.txt).
+> To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/DevOpsSampleSyntax.txt).
+
+#### For more sample diagram syntax, check out [Diagram Syntax List](/DiagramSyntaxSamples/DiagramSyntaxList.md) page.
