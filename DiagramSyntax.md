@@ -8,7 +8,7 @@ Syntax, together with Deployment and Configuration constitute the whole of Merma
 
 One would notice that all **Diagrams definitions begin** with a declaration of the **diagram type**, followed by the definitions of the diagram and its contents. This declaration notifies the parser which kind of diagram the code is supposed to generate.
 
-> The following [code-block](/SampleSyntax.txt) will be rendered as a Mermaid diagram:
+> The following [code-block](/SyntaxBreakdown/SampleSyntax.txt) will be rendered as a Mermaid diagram:
 
 ```mermaid
 flowchart TD
@@ -19,6 +19,6 @@ flowchart TD
 
 For apps that support markdown (e.g. GitHub, GitLab, Obsidian, etc.), you can add Mermaid diagrams by making a mermaid code block.
 
-> To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/DevOpsSampleSyntax.txt).
+> To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/SyntaxBreakdown/DevOpsSampleSyntax.txt).
 
-#### For more sample diagram syntax, check out [Diagram Syntax List](/DiagramSyntaxSamples/DiagramSyntaxList.md) page.
+**For more sample diagram syntax, check out [Diagram Syntax List](/DiagramSyntaxSamples/DiagramSyntaxList.md) page.**
