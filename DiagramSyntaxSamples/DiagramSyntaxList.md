@@ -1,3 +1,3 @@
 ﻿# Sample Syntax List
 
-- [Flowchart](/DiagramSyntaxSamples/DiagramSyntaxList.md)
+- [Flowchart](/DiagramSyntaxSamples/FlowChart.md)
