@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="Dev - Re-Structure">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a89fb9b1-fbdb-4977-895a-c73515c6471c" name="Changes" comment="Dev - Moved Cheat Sheet to One Page">
       <change beforePath="$PROJECT_DIR$/DiagramSyntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/DiagramSyntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagramSyntaxSamples/DiagramSyntaxList.md" beforeDir="false" afterPath="$PROJECT_DIR$/DiagramSyntaxSamples/DiagramSyntaxList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1727778705785" duration="175000" />
       <workItem from="1727778911409" duration="2203000" />
       <workItem from="1727963693826" duration="8175000" />
-      <workItem from="1728049992559" duration="4715000" />
+      <workItem from="1728049992559" duration="5412000" />
     </task>
     <task id="LOCAL-00001" summary="Dev - Added Diagram Syntax">
       <option name="closed" value="true" />
@@ -173,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728053116558</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Dev - Test">
+      <option name="closed" value="true" />
+      <created>1728136359694</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728136359694</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Dev - Moved Cheat Sheet to One Page">
+      <option name="closed" value="true" />
+      <created>1728136816616</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728136816616</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +223,9 @@
     <MESSAGE value="Dev - Fixed Flowchart URL" />
     <MESSAGE value="Dev - Added Syntax List Link" />
     <MESSAGE value="Dev - Re-Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dev - Re-Structure" />
+    <MESSAGE value="Dev - Test" />
+    <MESSAGE value="Dev - Moved Cheat Sheet to One Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev - Moved Cheat Sheet to One Page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
