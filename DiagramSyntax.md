@@ -1,7 +1,5 @@
 ﻿# Diagram Syntax 
 
-[`code`](#code)
-
 Mermaid's syntax is used to create diagrams. You'll find that it is not too tricky and can be learned in a day. 
 
 Syntax, together with Deployment and Configuration constitute the whole of Mermaid.
@@ -24,5 +22,3 @@ For apps that support markdown (e.g. GitHub, GitLab, Obsidian, etc.), you can ad
 > To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/SyntaxBreakdown/DevOpsSampleSyntax.txt).
 
 **For more sample diagram syntax, check out [Diagram Syntax List](/DiagramSyntaxSamples/DiagramSyntaxList.md) page.**
-
-# code
