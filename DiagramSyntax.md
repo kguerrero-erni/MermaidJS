@@ -10,6 +10,15 @@ One would notice that all **Diagrams definitions begin** with a declaration of t
 
 > The following [code-block](/DiagramSyntaxSamples/SampleSyntax.txt) will be rendered as a Mermaid diagram:
 
+````markdown
+``` mermaid
+flowchart TD
+    Start --> Stop
+```
+````
+
+### Output:
+
 ```mermaid
 flowchart TD
     Start --> Stop
@@ -19,6 +28,13 @@ flowchart TD
 
 For apps that support markdown (e.g. GitHub, GitLab, Obsidian, etc.), you can add Mermaid diagrams by making a mermaid code block.
 
-> To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/DiagramSyntaxSamples/DevOpsSampleSyntax.txt).
+> To add a Mermaid diagram to a DevOps Wiki page, use the following [syntax](/DiagramSyntaxSamples/DevOpsSampleSyntax.txt):
+
+````markdown
+::: mermaid
+flowchart TD
+    Start --> Stop
+:::
+````
 
 **For more sample diagram syntax, check out [Diagram Syntax List](/DiagramSyntaxSamples/DiagramSyntaxList.md) page.**
